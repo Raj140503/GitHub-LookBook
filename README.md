@@ -68,24 +68,5 @@ GitHub-LookBook/
 
 ---
 
-## 📸 Preview
-
-![GitHub LookBook Preview](img/preview.png)
-
-*Note: Replace `img/preview.png` with an actual screenshot of your customized LookBook.*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 **Developed by [Raj140503](https://github.com/Raj140503)**
